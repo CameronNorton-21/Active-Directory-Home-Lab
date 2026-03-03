@@ -1,6 +1,8 @@
 # Active-Directory-Home-Lab
 ## Overview
-This project demonstrates setting up a Windows Server Active Directory lab in a virtual environment.
+This repository demonstrates a complete Windows Server Active Directory environment built in a virtual lab.
+It includes domain controller setup, organizational units (OUs), user accounts, group membership, password policies, and auditing.
+The lab also captures failed and successful login events to showcase practical AD administration, security monitoring, and domain troubleshooting skills.
 
 The lab covers:
 
