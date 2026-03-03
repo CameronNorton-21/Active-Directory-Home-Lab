@@ -108,5 +108,5 @@ These events demonstrate that auditing is functional and properly logging key do
 
 ## How to Use This Repo
 This repository contains step-by-step screenshots and descriptions of an Active Directory lab environment. Each screenshot corresponds to a specific lab task.
-To view the lab flow, follow the screenshots in numerical order from '01-server-install.png' through '11-successful-login.png'.
+To view the lab flow, follow the screenshots in numerical order from '1. Server Install' through '11. Successful Login'.
 
