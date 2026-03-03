@@ -1,2 +1,2 @@
 # Active-Driectory-Security-Lab
-Windows Server 2022 Active Directory lab implementing NIST SP 800-53 security controls.
+Built and configured a Windows Server Active Directory lab with DNS, Group Policy auiditng, domain user management, and event log moitoring.
